@@ -14,7 +14,7 @@ I'm looking to collaborate with developers to continue to build a better tomorro
 <p> 🔭 I’m currently working on a tool that allows small to mid-size farmers make better decisions when selling their productors. </p>
 <p>🌱 I’m currently learning TypeScript. </p>
 <p>👯 I’m looking to collaborate on education application or create application to make small business more effiecient. </p>
-<p>📫 How to reach me: mmvilavan@gmail.com</p>
+<p>📫 How to reach me: https://www.linkedin.com/in/mruthaivilavan/</p>
 
 
 
