@@ -40,6 +40,7 @@ I'm looking to collaborate with developers to continue to build a better tomorro
  <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/%20-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=%23FFCA28&color=%231B3A57"></a>
  </p>
  <h3>💻 Software and Tools</h3>
  <p>
