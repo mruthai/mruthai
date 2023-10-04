@@ -2,18 +2,15 @@
 <h4>Hi There 👋 I'm Martin.</h4>
 
 <h3>About Me:</h3>
-
-For the past 15+ years, I've created learning opportunites in both the public and private education sectors in the U.S. and Asia. 
-
-My continued education brought me to Coding Temple's Full Stack Software Engineering program. My exposure to JavaScript and Python allowed me to develop applications through Frameworks such as Flask, React, and Express. In addition, I've worked with several different types of database structures, such as Firebase, MongoDB, and PostgreSQL, to name a few. 
-
-I'm looking to collaborate with developers to continue to build a better tomorrow. Such development would include, Front-end to ensure the UX would allow any user to access the information they need, to the Back-end to guarantee functionality and security.
+For the past 15+ years, I've created learning opportunities in both the public and private education sectors in the U.S. and Asia.
+My continued education brought me to Coding Temple's Full Stack Software Engineering program. My exposure to JavaScript and Python allowed me to develop applications through Frameworks such as Flask, React, and Express. In addition, I've worked with several different types of database structures, such as Firebase, MongoDB, and PostgreSQL, to name a few.
+I'm looking to collaborate with developers to continue to build a better tomorrow. Such development would include the front end to ensure the UX would allow users to access the information they need, to the back end to guarantee functionality and security.
 </p>
 
 
-<p> 🔭 I’m currently working on a tool that allows small to mid-size farmers make better decisions when selling their productors. </p>
-<p>🌱 I’m currently learning Django || TypeScript || Express.JS </p>
-<p>👯 I’m looking to collaborate on education application or create application to make small business more effiecient. </p>
+<p> 🔭I’m working on a tool that allows small to mid-size farmers to make better decisions when selling their products. </p>
+<p>🌱 I’m currently learning Django || TypeScript || Express.JS</p>
+<p>👯I’m looking to collaborate on education applications or create applications to make small businesses more efficient. </p>
 <p>📫 How to reach me: https://www.linkedin.com/in/martin-ruthaivilavan/</p>
 
 
