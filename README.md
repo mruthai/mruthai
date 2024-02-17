@@ -7,12 +7,8 @@ My continued education brought me to Coding Temple's Full Stack Software Enginee
 I'm looking to collaborate with developers to continue to build a better tomorrow. Such development would include the front end to ensure the UX would allow users to access the information they need, to the back end to guarantee functionality and security.
 </p>
 
-
-<p> 🔭I’m working on a tool that allows small to mid-size farmers to make better decisions when selling their products. </p>
-<p>🌱 I’m currently learning Django || TypeScript || Express.JS</p>
 <p>👯I’m looking to collaborate on education applications or create applications to make small businesses more efficient. </p>
 <p>📫 How to reach me: https://www.linkedin.com/in/martin-ruthaivilavan/</p>
-
 
 
 ## 🛠️ My Favorite Tools
@@ -21,6 +17,7 @@ I'm looking to collaborate with developers to continue to build a better tomorro
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-14354C.svg?style=flat-square&logo=typescript&logoColor=blue"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
